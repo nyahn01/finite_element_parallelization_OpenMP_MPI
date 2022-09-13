@@ -1,0 +1,353 @@
+A Parallel 2-Dimensional Unsteady Diffusion Equation Solver
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+
+==================== SETTINGS ====================
+Title of the simualation              : fine-mesh
+Name of the minf file                 : ./fine-mesh/minf
+Name of the mxyz file                 : ./fine-mesh/mxyz
+Name of the mien file                 : ./fine-mesh/mien
+Name of the mrng file                 : mrng
+Name of the initial distribution file : data
+Initial value of the Temperature      : 0.0000e+00
+Diffusion coefficient                 : 1.0000e+00
+Source term                           : 3.1830e+04
+Number of maximum time steps          : 200000
+Time step size                        : 2.0000e-06
+Alpha coeffcient                      : 2.0000e+00
+Beta coeffcient                       : 1.0000e+00
+                                         BCType	BCValue1	BCValue2
+BC Type and values of face group 1      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 2      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 3      : 1	3.0000e+02	0.0000e+00
+BC Type and values of face group 4      : 1	3.0000e+02	0.0000e+00
+
+====================== MESH ======================
+mype:1 nnc:15101 mnc:15101 nec:30000
+mype:3 nnc:15101 mnc:15101 nec:30000
+mype:4 nnc:15101 mnc:15101 nec:30000
+mype:5 nnc:15096 mnc:15101 nec:30000
+mype:2 nnc:15101 mnc:15101 nec:30000
+> Number of mesh elements : 180000
+> Number of nodes : 90601
+> File read complete: minf
+mype:0 nnc:15101 mnc:15101 nec:30000
+> Mesh data structure is created.
+> File read complete: ./fine-mesh/mxyz
+> File read complete: ./fine-mesh/mien
+
+=================== SOLUTION =====================
+The initial error is: 6.005167561406458e-02
+Iter	Time	L2 Error	
+mype 0 0	0.00000	1.000000000000000e+00
+mype 0 1000	0.00200	5.387791872715288e-03
+mype 0 2000	0.00400	3.186002916849401e-03
+mype 0 3000	0.00600	2.338260421474396e-03
+mype 0 4000	0.00800	1.875198856355723e-03
+mype 0 5000	0.01000	1.578966328999874e-03
+mype 0 6000	0.01200	1.371512799388261e-03
+mype 0 7000	0.01400	1.217645714460821e-03
+mype 0 8000	0.01600	1.098983857267379e-03
+mype 0 9000	0.01800	1.004791047864599e-03
+mype 0 10000	0.02000	9.282250068399744e-04
+mype 0 11000	0.02200	8.646468571440352e-04
+mype 0 12000	0.02400	8.107880416270862e-04
+mype 0 13000	0.02600	7.642958095593361e-04
+mype 0 14000	0.02800	7.234579230486500e-04
+mype 0 15000	0.03000	6.870210081478459e-04
+mype 0 16000	0.03200	6.540638827905589e-04
+mype 0 17000	0.03400	6.239066680148328e-04
+mype 0 18000	0.03600	5.960448362421931e-04
+mype 0 19000	0.03800	5.701012473579160e-04
+mype 0 20000	0.04000	5.457913221366466e-04
+mype 0 21000	0.04200	5.228978218546491e-04
+mype 0 22000	0.04400	5.012526280762525e-04
+mype 0 23000	0.04600	4.807235999878042e-04
+mype 0 24000	0.04800	4.612050988308291e-04
+mype 0 25000	0.05000	4.426111517563281e-04
+mype 0 26000	0.05200	4.248705109902088e-04
+mype 0 27000	0.05400	4.079230722651575e-04
+mype 0 28000	0.05600	3.917172678452570e-04
+mype 0 29000	0.05800	3.762081588358962e-04
+mype 0 30000	0.06000	3.613560300653210e-04
+mype 0 31000	0.06200	3.471253470818360e-04
+mype 0 32000	0.06400	3.334839749702624e-04
+mype 0 33000	0.06600	3.204025873033103e-04
+mype 0 34000	0.06800	3.078542139110071e-04
+mype 0 35000	0.07000	2.958138906468500e-04
+mype 0 36000	0.07200	2.842583846449666e-04
+mype 0 37000	0.07400	2.731659759169693e-04
+mype 0 38000	0.07600	2.625162813835973e-04
+mype 0 39000	0.07800	2.522901111901375e-04
+mype 0 40000	0.08000	2.424693498469544e-04
+mype 0 41000	0.08200	2.330368566743006e-04
+mype 0 42000	0.08400	2.239763814323702e-04
+mype 0 43000	0.08600	2.152724920350007e-04
+mype 0 44000	0.08800	2.069105119898773e-04
+mype 0 45000	0.09000	1.988764657550346e-04
+mype 0 46000	0.09200	1.911570306075294e-04
+mype 0 47000	0.09400	1.837394939234149e-04
+mype 0 48000	0.09600	1.766117149964372e-04
+mype 0 49000	0.09800	1.697620906971406e-04
+mype 0 50000	0.10000	1.631795244079478e-04
+mype 0 51000	0.10200	1.568533977732379e-04
+mype 0 52000	0.10400	1.507735448860026e-04
+mype 0 53000	0.10600	1.449302285953763e-04
+mype 0 54000	0.10800	1.393141186731930e-04
+mype 0 55000	0.11000	1.339162716174081e-04
+mype 0 56000	0.11200	1.287281119059230e-04
+mype 0 57000	0.11400	1.237414145403806e-04
+mype 0 58000	0.11600	1.189482887445608e-04
+mype 0 59000	0.11800	1.143411626988872e-04
+mype 0 60000	0.12000	1.099127692105587e-04
+mype 0 61000	0.12200	1.056561322314050e-04
+mype 0 62000	0.12400	1.015645541461903e-04
+mype 0 63000	0.12600	9.763160376532390e-05
+mype 0 64000	0.12800	9.385110496302832e-05
+mype 0 65000	0.13000	9.021712590887632e-05
+mype 0 66000	0.13200	8.672396884785074e-05
+mype 0 67000	0.13400	8.336616038743757e-05
+mype 0 68000	0.13600	8.013844225645404e-05
+mype 0 69000	0.13800	7.703576250288529e-05
+mype 0 70000	0.14000	7.405326710194893e-05
+mype 0 71000	0.14200	7.118629194833654e-05
+mype 0 72000	0.14400	6.843035520891397e-05
+mype 0 73000	0.14600	6.578115001494541e-05
+mype 0 74000	0.14800	6.323453747358198e-05
+mype 0 75000	0.15000	6.078653998201133e-05
+mype 0 76000	0.15200	5.843333482656907e-05
+mype 0 77000	0.15400	5.617124805315262e-05
+mype 0 78000	0.15600	5.399674859428955e-05
+mype 0 79000	0.15800	5.190644264017696e-05
+mype 0 80000	0.16000	4.989706824209217e-05
+mype 0 81000	0.16200	4.796549013670830e-05
+mype 0 82000	0.16400	4.610869478137270e-05
+mype 0 83000	0.16600	4.432378559028664e-05
+mype 0 84000	0.16800	4.260797836283042e-05
+mype 0 85000	0.17000	4.095859689519923e-05
+mype 0 86000	0.17200	3.937306876755413e-05
+mype 0 87000	0.17400	3.784892129899246e-05
+mype 0 88000	0.17600	3.638377766302851e-05
+mype 0 89000	0.17800	3.497535315693054e-05
+mype 0 90000	0.18000	3.362145161847858e-05
+mype 0 91000	0.18200	3.231996198402835e-05
+mype 0 92000	0.18400	3.106885498150707e-05
+mype 0 93000	0.18600	2.986617995393027e-05
+mype 0 94000	0.18800	2.871006180680881e-05
+mype 0 95000	0.19000	2.759869807556096e-05
+mype 0 96000	0.19200	2.653035610726743e-05
+mype 0 97000	0.19400	2.550337035254412e-05
+mype 0 98000	0.19600	2.451613976318521e-05
+mype 0 99000	0.19800	2.356712529127092e-05
+mype 0 100000	0.20000	2.265484748537198e-05
+mype 0 101000	0.20200	2.177788418091934e-05
+mype 0 102000	0.20400	2.093486827969986e-05
+mype 0 103000	0.20600	2.012448561633679e-05
+mype 0 104000	0.20800	1.934547290718300e-05
+mype 0 105000	0.21000	1.859661577936243e-05
+mype 0 106000	0.21200	1.787674687561676e-05
+mype 0 107000	0.21400	1.718474403380100e-05
+mype 0 108000	0.21600	1.651952853585103e-05
+mype 0 109000	0.21800	1.588006342551400e-05
+mype 0 110000	0.22000	1.526535189096953e-05
+mype 0 111000	0.22200	1.467443571023556e-05
+mype 0 112000	0.22400	1.410639375668548e-05
+mype 0 113000	0.22600	1.356034056295041e-05
+mype 0 114000	0.22800	1.303542493997560e-05
+mype 0 115000	0.23000	1.253082864973700e-05
+mype 0 116000	0.23200	1.204576512968125e-05
+mype 0 117000	0.23400	1.157947826602490e-05
+mype 0 118000	0.23600	1.113124121507891e-05
+mype 0 119000	0.23800	1.070035527011448e-05
+mype 0 120000	0.24000	1.028614877177020e-05
+mype 0 121000	0.24200	9.887976061219412e-06
+mype 0 122000	0.24400	9.505216473381986e-06
+mype 0 123000	0.24600	9.137273369492020e-06
+mype 0 124000	0.24800	8.783573206833812e-06
+mype 0 125000	0.25000	8.443564644688497e-06
+mype 0 126000	0.25200	8.116717684939032e-06
+mype 0 127000	0.25400	7.802522845588795e-06
+mype 0 128000	0.25600	7.500490366903226e-06
+mype 0 129000	0.25800	7.210149447680307e-06
+mype 0 130000	0.26000	6.931047511479381e-06
+mype 0 131000	0.26200	6.662749500969689e-06
+mype 0 132000	0.26400	6.404837199918742e-06
+mype 0 133000	0.26600	6.156908581065392e-06
+mype 0 134000	0.26800	5.918577179733054e-06
+mype 0 135000	0.27000	5.689471491113044e-06
+mype 0 136000	0.27200	5.469234391190038e-06
+mype 0 137000	0.27400	5.257522580292138e-06
+mype 0 138000	0.27600	5.054006047706601e-06
+mype 0 139000	0.27800	4.858367557346037e-06
+mype 0 140000	0.28000	4.670302153200574e-06
+mype 0 141000	0.28200	4.489516684101179e-06
+mype 0 142000	0.28400	4.315729346606507e-06
+mype 0 143000	0.28600	4.148669245795537e-06
+mype 0 144000	0.28800	3.988075972957271e-06
+mype 0 145000	0.29000	3.833699199820932e-06
+mype 0 146000	0.29200	3.685298288122895e-06
+mype 0 147000	0.29400	3.542641914722972e-06
+mype 0 148000	0.29600	3.405507710887004e-06
+mype 0 149000	0.29800	3.273681915573530e-06
+mype 0 150000	0.30000	3.146959042464314e-06
+mype 0 151000	0.30200	3.025141559569741e-06
+mype 0 152000	0.30400	2.908039581170172e-06
+mype 0 153000	0.30600	2.795470572020770e-06
+mype 0 154000	0.30800	2.687259062752327e-06
+mype 0 155000	0.31000	2.583236376285345e-06
+mype 0 156000	0.31200	2.483240365124975e-06
+mype 0 157000	0.31400	2.387115158237007e-06
+mype 0 158000	0.31600	2.294710918335798e-06
+mype 0 159000	0.31800	2.205883608382882e-06
+mype 0 160000	0.32000	2.120494766900572e-06
+mype 0 161000	0.32200	2.038411292142189e-06
+mype 0 162000	0.32400	1.959505234749050e-06
+mype 0 163000	0.32600	1.883653598216744e-06
+mype 0 164000	0.32800	1.810738147122660e-06
+mype 0 165000	0.33000	1.740645222998499e-06
+mype 0 166000	0.33200	1.673265566969887e-06
+mype 0 167000	0.33400	1.608494149571192e-06
+mype 0 168000	0.33600	1.546230006904763e-06
+mype 0 169000	0.33800	1.486376083449728e-06
+mype 0 170000	0.34000	1.428839080595921e-06
+mype 0 171000	0.34200	1.373529311307945e-06
+mype 0 172000	0.34400	1.320360560285191e-06
+mype 0 173000	0.34600	1.269249949643467e-06
+mype 0 174000	0.34800	1.220117809524472e-06
+mype 0 175000	0.35000	1.172887554292695e-06
+mype 0 176000	0.35200	1.127485562615985e-06
+mype 0 177000	0.35400	1.083841063290373e-06
+mype 0 178000	0.35600	1.041886024439285e-06
+mype 0 179000	0.35800	1.001555047804491e-06
+mype 0 180000	0.36000	9.627852665434475e-07
+mype 0 181000	0.36200	9.255162474874059e-07
+mype 0 182000	0.36400	8.896898967427642e-07
+mype 0 183000	0.36600	8.552503691759994e-07
+mype 0 184000	0.36800	8.221439814842870e-07
+mype 0 185000	0.37000	7.903191283506805e-07
+mype 0 186000	0.37200	7.597262021000553e-07
+mype 0 187000	0.37400	7.303175153515326e-07
+mype 0 188000	0.37600	7.020472266734972e-07
+mype 0 189000	0.37800	6.748712692254434e-07
+mype 0 190000	0.38000	6.487472818296541e-07
+mype 0 191000	0.38200	6.236345431445011e-07
+mype 0 192000	0.38400	5.994939081792560e-07
+mype 0 193000	0.38600	5.762877471737480e-07
+mype 0 194000	0.38800	5.539798870955234e-07
+mype 0 195000	0.39000	5.325355550115388e-07
+mype 0 196000	0.39200	5.119213241845435e-07
+mype 0 197000	0.39400	4.921050616492083e-07
+mype 0 198000	0.39600	4.730558784428818e-07
+mype 0 199000	0.39800	4.547440812907671e-07
+sumT 2.002818644287509e+05
+
+================ POST-PROCESSING =================
+Tmin 1.000000000000000e+00
+Tmax 4.000000000000000e+00
+RMS error 2.947136103003322e+02
+fine-mesh_2.vtu
+fine-mesh_3.vtu
+fine-mesh_0.vtu
+fine-mesh_4.vtu
+fine-mesh_5.vtu
+fine-mesh_1.vtu
+Elapsed time is 510.854503870010376
+: Ciao:)

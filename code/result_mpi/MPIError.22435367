@@ -1,0 +1,1 @@
+srun: TOPOLOGY: warning -- no switch can reach all nodes through its descendants.Do not use route/topology

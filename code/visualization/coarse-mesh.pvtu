@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <PUnstructuredGrid GhostLevel="0">
+    <PPointData Scalars="Temperature">
+      <PDataArray type="Float64" Name="Temperature"/>
+    </PPointData>
+    <PPoints>
+      <PDataArray type="Float64" Name="Points" NumberOfComponents="3"/>
+    </PPoints>
+    <Piece Source="coarse-mesh_0.vtu"/>
+    <Piece Source="coarse-mesh_1.vtu"/>
+    <Piece Source="coarse-mesh_2.vtu"/>
+    <Piece Source="coarse-mesh_3.vtu"/>
+    <Piece Source="coarse-mesh_4.vtu"/>
+    <Piece Source="coarse-mesh_5.vtu"/>
+    <Piece Source="coarse-mesh_6.vtu"/>
+    <Piece Source="coarse-mesh_7.vtu"/>
+    <Piece Source="coarse-mesh_8.vtu"/>
+    <Piece Source="coarse-mesh_9.vtu"/>
+    <Piece Source="coarse-mesh_10.vtu"/>
+    <Piece Source="coarse-mesh_11.vtu"/>
+    <Piece Source="coarse-mesh_12.vtu"/>
+    <Piece Source="coarse-mesh_13.vtu"/>
+    <Piece Source="coarse-mesh_14.vtu"/>
+    <Piece Source="coarse-mesh_15.vtu"/>
+  </PUnstructuredGrid>
+</VTKFile>
